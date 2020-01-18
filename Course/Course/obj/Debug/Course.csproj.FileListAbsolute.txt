@@ -1,0 +1,6 @@
+C:\Users\brene\OneDrive\Área de Trabalho\Course\Course\Course\bin\Debug\Course.exe.config
+C:\Users\brene\OneDrive\Área de Trabalho\Course\Course\Course\bin\Debug\Course.exe
+C:\Users\brene\OneDrive\Área de Trabalho\Course\Course\Course\bin\Debug\Course.pdb
+C:\Users\brene\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.csprojAssemblyReference.cache
+C:\Users\brene\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.exe
+C:\Users\brene\OneDrive\Área de Trabalho\Course\Course\Course\obj\Debug\Course.pdb
